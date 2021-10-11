@@ -1,5 +1,5 @@
 <?php
-namespace whitexiong\Weather\Tests;
+namespace Whitexiong\Weather\Tests;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;

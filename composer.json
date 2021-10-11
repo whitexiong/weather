@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "whitexiong\\Weather\\ServiceProvider"
+                "Whitexiong\\Weather\\ServiceProvider"
             ]
         }
     }

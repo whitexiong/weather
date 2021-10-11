@@ -1,5 +1,5 @@
 <?php
-namespace whitexiong\Weather;
+namespace Whitexiong\Weather;
 
 use GuzzleHttp\Client;
 use whitexiong\Weather\Exceptions\HttpException;
