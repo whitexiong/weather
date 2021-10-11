@@ -1,9 +1,9 @@
 <?php
-namespace White\Weather;
+namespace whitexiong\Weather;
 
 use GuzzleHttp\Client;
-use White\Weather\Exceptions\HttpException;
-use White\Weather\Exceptions\InvalidArgumentException;
+use whitexiong\Weather\Exceptions\HttpException;
+use whitexiong\Weather\Exceptions\InvalidArgumentException;
 
 class Weather
 {

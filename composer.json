@@ -1,5 +1,5 @@
 {
-    "name": "white\/weather",
+    "name": "whitexiong\/weather",
     "description": "A weather SDK.",
     "license": "MIT",
     "authors": [
@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "White\\Weather\\ServiceProvider"
+                "whitexiong\\Weather\\ServiceProvider"
             ]
         }
     }

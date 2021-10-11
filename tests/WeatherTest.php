@@ -1,14 +1,14 @@
 <?php
-namespace White\Weather\Tests;
+namespace whitexiong\Weather\Tests;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Psr7\Response;
 use Mockery\Matcher\AnyArgs;
 use PHPUnit\Framework\TestCase;
-use White\Weather\Exceptions\HttpException;
-use White\Weather\Exceptions\InvalidArgumentException;
-use White\Weather\Weather;
+use whitexiong\Weather\Exceptions\HttpException;
+use whitexiong\Weather\Exceptions\InvalidArgumentException;
+use whitexiong\Weather\Weather;
 
 class WeatherTest extends TestCase
 {

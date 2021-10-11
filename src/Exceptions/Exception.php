@@ -1,6 +1,6 @@
 <?php
 
-namespace White\Weather\Exceptions;
+namespace whitexiong\Weather\Exceptions;
 
 class Exception extends \Exception
 {

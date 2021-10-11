@@ -1,6 +1,6 @@
 <?php
 
-namespace White\Weather;
+namespace whitexiong\Weather;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace White\Weather\Exceptions;
+namespace whitexiong\Weather\Exceptions;
 
 class InvalidArgumentException extends Exception
 {
