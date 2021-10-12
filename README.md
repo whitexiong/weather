@@ -1,7 +1,9 @@
+
 <h1 align="center"> weather </h1>
 
 <p align="center"> A weather SDK..</p>
 
+[![Build Status](https://app.travis-ci.com/whitexiong/weather.svg?branch=master)](https://app.travis-ci.com/whitexiong/weather)
 
 ## Installing
 
